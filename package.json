@@ -1,0 +1,11 @@
+{
+  "name": "ezetech-test-task",
+  "version": "0.0.1",
+  "dependencies": {
+    "aws-sdk": "^2.140.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.4",
+    "multiparty": "^4.1.3"
+  }
+}
