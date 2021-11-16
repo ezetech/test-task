@@ -2,7 +2,7 @@
   "name": "ezetech-test-task",
   "version": "0.0.1",
   "dependencies": {
-    "aws-sdk": "^2.140.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "mongoose": "^5.13.0",
