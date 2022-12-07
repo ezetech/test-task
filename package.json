@@ -4,7 +4,7 @@
   "dependencies": {
     "aws-sdk": "^2.140.0",
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "mongoose": "^5.13.0",
     "multiparty": "^4.1.3"
   }
